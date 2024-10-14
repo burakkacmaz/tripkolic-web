@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Turkey",
+    "prefix": "TR"
+  },
+  {
+    "name": "USA",
+    "prefix": "US"
+  },
+  {
+    "name": "Germany",
+    "prefix": "DE"
+  },
+  {
+    "name": "France",
+    "prefix": "FR"
+  },
+  {
+    "name": "United Kingdom",
+    "prefix": "GB"
+  }
+]
